@@ -76,14 +76,22 @@
 
 ### ***4.1 Запускаем Signoz:***
 
-
+![image](Pictures/19.png)
+   
+![image](Pictures/20.png)
+   
+![image](Pictures/21.png)
 
 ### ***4.2 Редактируем конфигурации на клиенте для отправки данных в Signoz:***
 
-
+ ![image](Pictures/22.png)
 
 ### ***4.3 Запускаем клиентское приложение:***
 
-
+ ![image](Pictures/23.png)
 
 ### ***4.4 Проверяем получение логов в Signoz:***
+
+ ![image](Pictures/24.png) 
+ 
+ ![image](Pictures/25.png)
