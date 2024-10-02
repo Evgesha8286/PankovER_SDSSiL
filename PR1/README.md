@@ -42,26 +42,30 @@
 
 ### ***3.1 Устанавливаем и редактируем compose-файл на сервере:***
 
-
+![image](Pictures/11.png)
+![image](Pictures/12.png)
 
 ### ***3.2 Запускаем Loki:***
 
-
+![image](Pictures/13.png)
 
 ### ***3.3 Редактируем promtail на клиенте:***
 
-
+![image](Pictures/14.png)
 
 ### ***3.4 Редактируем compose-файл для promtail:***
 
-
+![image](Pictures/15.png)
 
 ### ***3.5 Запускаем promtail на клиенте:***
 
-
+![image](Pictures/16.png)
 
 ### ***3.6 Просматриваем логи клиента в Grafana Loki:***
 
+![image](Pictures/17.png)
+
+![image](Pictures/18.png)
 
 
 ## **4. Устанавливаем и настроиваем получение логов на сервере с использованием Signoz**
