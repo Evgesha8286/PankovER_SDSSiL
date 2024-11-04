@@ -41,6 +41,5 @@
 ## **Шаг 9 - Настроим выявление SQL-иньекций:**
 ### **Установим нужные для работы пакеты:**
 ![image](Screenshots/15.png)
-![image](Screenshots/16.png)
 ### **Изменим файл конфигурации:**
-![image](Screenshots/17.png)
+![image](Screenshots/16.png)
