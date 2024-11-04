@@ -14,3 +14,7 @@
 
 ## **Шаг 3 - Установка Wazuh-сервера на серверной ВМ:**
 ![image](Screenshots/4.png)
+
+### **Проверим результат установки и перейдем в web-интерфейс wazuh:**
+![image](Screenshots/5.png)
+![image](Screenshots/6.png)
