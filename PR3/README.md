@@ -43,3 +43,7 @@
 ![image](Screenshots/15.png)
 ### **Изменим файл конфигурации:**
 ![image](Screenshots/16.png)
+
+## **Шаг 10 - Настроим выявление web shell attack:**
+### **Сруз перейдем к изменению файла конйигурации:**
+![image](Screenshots/17.png)
