@@ -7,9 +7,8 @@
 #### **1.1.1 WEb-интерфейс AC-hunter:**
 ![image](Screenshots/2.png)
 ### **1.2 Добавляем адрес в safelist с полученным траффиком к skype.com:**
-3
-4
-
+![image](Screenshots/3.png)
+![image](Screenshots/4.png)
 #### **1.2.1 Проверяем safelist на наличие добавленного адреса:**
 5
 
