@@ -5,8 +5,7 @@
 ### **1.1 Скачиваем и разворачиваем стенд:**
 ![image](Screenshots/1.png)
 #### **1.1.1 WEb-интерфейс AC-hunter:**
-2
-
+![image](Screenshots/2.png)
 ### **1.2 Добавляем адрес в safelist с полученным траффиком к skype.com:**
 3
 4
