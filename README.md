@@ -7,3 +7,5 @@
 Практическая работа 2 - [Анализ логов](https://github.com/Evgesha8286/PankovER_SDSSiL/tree/fb7cbfc1706260ee645914444a35921dc9000d0b/PR2)
 
 Практическая работа 3 - [Wazuh](https://github.com/Evgesha8286/PankovER_SDSSiL/tree/181be7609ba8b4e00dd8b44777515e37e1b63cb3/PR3)
+
+Практическая работа 4 - [Network Threat Hunting](https://github.com/Evgesha8286/PankovER_SDSSiL/tree/b350984de4438afbc8d3d290f139c8250a9a13d6/PR4)
