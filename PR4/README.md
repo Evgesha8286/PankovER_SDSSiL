@@ -74,3 +74,6 @@
 ![image](Screenshots/22.png)
 ### **Переключаемся на нужные логи в WEB-интерфейсе:**
 ![image](Screenshots/23.png)
+### **Главная страница и переход в beacons web**
+![image](Screenshots/24.png)
+![image](Screenshots/25.png)
