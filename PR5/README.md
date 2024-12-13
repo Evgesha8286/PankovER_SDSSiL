@@ -25,5 +25,7 @@
 ![image](Screenshots/11.png)
 ![image](Screenshots/12.png)
 ![image](Screenshots/13.png)
-### **4.2 Настройка сбор логов и передачу в `Wazuh-сервер`:**
+### **4.2 Настройка сбора логов и передачи в `Wazuh-сервер`:**
 ![image](Screenshots/14.png)
+### **4.3 Проверка логов Suricata на `Wazuh-сервере:`**
+![image](Screenshots/15.png)
