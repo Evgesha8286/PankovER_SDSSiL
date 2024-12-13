@@ -19,3 +19,11 @@
 ![image](Screenshots/8.png)
 ### **3.1 Проверка отображения подключенного агента на `Wazuh-сервере`:**
 ![image](Screenshots/9.png)
+## **4. Установка Suricata IDS на клиентскую ВМ:**
+![image](Screenshots/10.png)
+### **4.1 Настройка конфигурации Suricata IDS:**
+![image](Screenshots/11.png)
+![image](Screenshots/12.png)
+![image](Screenshots/13.png)
+### **4.2 Настройка сбор логов и передачу в `Wazuh-сервер`:**
+![image](Screenshots/14.png)
