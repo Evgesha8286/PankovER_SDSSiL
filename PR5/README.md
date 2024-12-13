@@ -14,3 +14,7 @@
 ![image](Screenshots/5.png)
 ### **2.1 Проверка WEB-интерфейса `Wazuh-сервера`:**
 ![image](Screenshots/6.png)
+## **3. Установка агента на клиентскую ВМ:**
+![image](Screenshots/7.png)
+### **3.1 Проверка отображения подключенного агента на `Wazuh-сервере`:**
+![image](Screenshots/8.png)
