@@ -59,3 +59,8 @@
 ![image](Screenshots/28.png)
 ![image](Screenshots/29.png)
 ![image](Screenshots/30.png)
+## **8. Проверка результата подключения `YARA` к `Wazuh-серверу`:**
+### **8.1 Создание скрипта для проверки `YARA` на Клиентской ВМ:**
+![image](Screenshots/31.png)
+### **8.2 Отображение результата в `Wazuh-сервере`:**
+![image](Screenshots/32.png)
