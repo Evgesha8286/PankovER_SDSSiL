@@ -25,7 +25,10 @@
 ![image](Screenshots/11.png)
 ### **4.2 Настройка конфигурации Suricata IDS:**
 ![image](Screenshots/12.png)
-### **4.3 Настройка сбора логов и передачи в `Wazuh-сервер`:**
 ![image](Screenshots/13.png)
-### **4.4 Проверка логов Suricata на `Wazuh-сервере:`**
 ![image](Screenshots/14.png)
+### **4.3 Настройка сбора логов и передачи в `Wazuh-сервер`:**
+![image](Screenshots/15.png)
+### **4.4 Проверка логов Suricata на `Wazuh-сервере:`**
+![image](Screenshots/16.png)
+![image](Screenshots/17.png)
