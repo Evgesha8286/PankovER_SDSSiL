@@ -21,7 +21,7 @@
 ![image](Screenshots/9.png)
 ## **4. Установка `Suricata IDS` на клиентскую ВМ:**
 ![image](Screenshots/10.png)
-### **4.1 Установка набора правил дял `Suricata`:**
+### **4.1 Установка набора правил для `Suricata`:**
 ![image](Screenshots/11.png)
 ### **4.2 Настройка конфигурации `Suricata IDS`:**
 ![image](Screenshots/12.png)
@@ -39,3 +39,11 @@
 ![image](Screenshots/19.png)
 ![image](Screenshots/20.png)
 ## **6 Установка `YARA` на клиентскую ВМ:**
+### **6.1 Выполнение команд для установки `YARA` на Клиентсую ВМ:**
+![image](Screenshots/21.png)
+### **6.2 Проверка установки:**
+![image](Screenshots/22.png)
+###  **6.3 Исправление ошибки:**
+![image](Screenshots/23.png)
+### **6.4 Установка набора правил для `YARA`:**
+![image](Screenshots/24.png)
