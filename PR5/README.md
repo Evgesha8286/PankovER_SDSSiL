@@ -53,3 +53,5 @@
 ![image](Screenshots/25.png)
 ### **6.6 Меняем права на скрипт `yara.sh`:**
 ![image](Screenshots/26.png)
+### **6.7 Настройка сбора логов и передачи в `Wazuh-сервер`:**
+![image](Screenshots/27.png)
