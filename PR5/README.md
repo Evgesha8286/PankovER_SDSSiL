@@ -47,4 +47,5 @@
 ![image](Screenshots/23.png)
 ### **6.4 Установка набора правил для `YARA`:**
 Ошибки из-за отсутствия VPN
+
 ![image](Screenshots/24.png)
