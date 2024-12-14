@@ -19,22 +19,23 @@
 ![image](Screenshots/8.png)
 ### **3.1 Проверка отображения подключенного агента на `Wazuh-сервере`:**
 ![image](Screenshots/9.png)
-## **4. Установка Suricata IDS на клиентскую ВМ:**
+## **4. Установка `Suricata IDS` на клиентскую ВМ:**
 ![image](Screenshots/10.png)
-### **4.1 Установка набора правил дял Suricata:**
+### **4.1 Установка набора правил дял `Suricata`:**
 ![image](Screenshots/11.png)
-### **4.2 Настройка конфигурации Suricata IDS:**
+### **4.2 Настройка конфигурации `Suricata IDS`:**
 ![image](Screenshots/12.png)
 ![image](Screenshots/13.png)
 ![image](Screenshots/14.png)
 ### **4.3 Настройка сбора логов и передачи в `Wazuh-сервер`:**
 ![image](Screenshots/15.png)
-### **4.4 Проверка логов Suricata на `Wazuh-сервере`:**
+### **4.4 Проверка логов `Suricata` на `Wazuh-сервере`:**
 ![image](Screenshots/16.png)
 ![image](Screenshots/17.png)
-## **5 Осуществим проверку работы правил Suricata:**
+## **5 Осуществление проверки работы правил `Suricata`:**
 ### **5.1 На ВМ Атакующая-Kali выполним ping на Клиентскую ВМ:**
 ![image](Screenshots/18.png)
-### **5.2 Проверим на `Wazuh-сервере` наличие обнаружения активности и предупреждений:**
+### **5.2 Проверка на `Wazuh-сервере` наличия обнаружения активности и предупреждений:**
 ![image](Screenshots/19.png)
 ![image](Screenshots/20.png)
+## **6 Установка `YARA` на клиентскую ВМ:**
