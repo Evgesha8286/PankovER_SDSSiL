@@ -51,3 +51,5 @@
 ![image](Screenshots/24.png)
 ### **6.5 Создание скрипта `yara.sh` для получения данных сканирования в `Wazuh-сервер`:**
 ![image](Screenshots/25.png)
+### **6.6 Меняем права на скрипт `yara.sh`:**
+![image](Screenshots/26.png)
