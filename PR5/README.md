@@ -21,9 +21,11 @@
 ![image](Screenshots/9.png)
 ## **4. Установка Suricata IDS на клиентскую ВМ:**
 ![image](Screenshots/10.png)
-### **4.1 Настройка конфигурации Suricata IDS:**
+### **4.1 Установка набора правил дял Suricata:**
 ![image](Screenshots/11.png)
-### **4.2 Настройка сбора логов и передачи в `Wazuh-сервер`:**
+### **4.2 Настройка конфигурации Suricata IDS:**
 ![image](Screenshots/12.png)
-### **4.3 Проверка логов Suricata на `Wazuh-сервере:`**
+### **4.3 Настройка сбора логов и передачи в `Wazuh-сервер`:**
 ![image](Screenshots/13.png)
+### **4.4 Проверка логов Suricata на `Wazuh-сервере:`**
+![image](Screenshots/14.png)
