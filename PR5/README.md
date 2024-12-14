@@ -51,7 +51,11 @@
 ![image](Screenshots/24.png)
 ### **6.5 Создание скрипта `yara.sh` для получения данных сканирования в `Wazuh-сервер`:**
 ![image](Screenshots/25.png)
-### **6.6 Меняем права на скрипт `yara.sh`:**
+### **6.6 Выдача прав на скрипт `yara.sh`:**
 ![image](Screenshots/26.png)
 ### **6.7 Настройка сбора логов и передачи в `Wazuh-сервер`:**
 ![image](Screenshots/27.png)
+## **7 Настройка Серверной ВМ для работы с `YARA`:**
+![image](Screenshots/28.png)
+![image](Screenshots/29.png)
+![image](Screenshots/30.png)
